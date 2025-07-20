@@ -1,0 +1,16 @@
+{
+  "name": "entrega-final-node",
+  "version": "1.0.0",
+  "description": "Proyecto integrador para Talento Tech.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas.M.Pereyra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
